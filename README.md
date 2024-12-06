@@ -19,8 +19,7 @@ This project demonstrates skills in geospatial analysis, machine learning for im
 
 ## Repository Structure
 - **Data/**: Contains the final dataset and other relevant files.
-  - `final_dataset.csv`: Final dataset used for modeling and analysis.
-  - `submission.zip`: Consolidated deliverables for submission.
+  - `submission.zip`: Final dataset used for modeling and analysis.
 - **Code/**: Includes Jupyter Notebook and other code files.
   - `Business_Challenge_Analysis_and_Code.ipynb`: Main Jupyter Notebook for analysis and modeling.
 - **Documents/**: Contains the report, HTML version of the notebook, and presentation.
